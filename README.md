@@ -24,7 +24,7 @@ ArcFace recognition) running through ONNX Runtime. 100% free and open source, ru
 ## Install
 
 ```powershell
-git clone <this-repo> picfil
+git clone https://github.com/adrianiftode/picfil picfil
 cd picfil
 
 py -3.11 -m venv .venv
