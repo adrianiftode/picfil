@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Tool outputs
+scan.csv
+scan*.csv
+*-share/
+person-*/
+all images/
+_tmp_extract/
+
+# Model weights (downloaded on first run)
+*.onnx
