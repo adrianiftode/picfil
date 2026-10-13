@@ -119,4 +119,9 @@ picfil/
 
 ## License
 
-Add a license of your choice (e.g. MIT) before publishing.
+Released under the [MIT License](LICENSE).
+
+> **Note on models:** the code in this repo is MIT-licensed, but the pretrained
+> **buffalo_l** face models downloaded at runtime are distributed by InsightFace for
+> **non-commercial use** only. If you intend to use this commercially, swap in models
+> licensed for your case.
